@@ -43,7 +43,8 @@ if user_input<0:
     print("The number is negative")
     
     '''
-    This is just a line of code that dont execute like other 
-    but seen by python: this is just for documentation generation or 
+    This is just a line of code that read by python in bulk:::only executed if print
+    or other statement takes place ;like other code,it
+    is seen by python: otherwise, this is just for documentation generation or 
     documentation purpose
     '''
